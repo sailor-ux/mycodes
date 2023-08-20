@@ -1,3 +1,4 @@
+// ACM模式代码练习第12题
 #include <iostream>
 using namespace std;
 
